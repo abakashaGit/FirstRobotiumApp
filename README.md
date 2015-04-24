@@ -1,3 +1,3 @@
-# FirstRobotiumApp
-simple android app for Robotium testing
+# Sample Robotium Android Test Projet
+simple android application for Robotium testing.
 
